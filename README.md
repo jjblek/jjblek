@@ -8,6 +8,7 @@
 - 🔭 I’m currently looking for work!
 - 🌱 I’m currently learning Rust
 - 💬 Ask me about my programming langauge experience
+- 👨‍💻 Check out my project <a href="https://neon-type.netlify.app/">NeonType</a> and my <a href="https://www.youtube.com/watch?v=pVIfunDXPds&ab_channel=SSUComputerScienceDepartment">Capstone Video Presentation</a>
 - 📫 How to reach me: **jjblek@gmail.com**
 
 
