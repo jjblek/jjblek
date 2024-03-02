@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
-<h3 align="center">A computer science grad from
+<h3 align="center">A computer science graduate from
 
 <a href="https://www.sonoma.edu/" target="blank"><img align="center" src="https://www.sonoma.edu/sites/www/files/ssu_full_logo_centered-wht.svg" alt="ssu" height="80" width="200" /></a></h3>
 
