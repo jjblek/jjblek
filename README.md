@@ -6,9 +6,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjblek&label=Profile%20views&color=0e75b6&style=flat" alt="jjblek" /> </p>
 
 - 🔭 I’m currently looking for work!
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently building web applications using React
 - 💬 Ask me about my programming langauge experience
 - 👨‍💻 Check out my project <a href="https://neon-type.netlify.app/">NeonType</a> and my <a href="https://www.youtube.com/watch?v=pVIfunDXPds&ab_channel=SSUComputerScienceDepartment">Capstone Video Presentation</a>
+
+  - Other projects: [Wordle Clone](https://jjblek.github.io/wordle-clone/), [Pentago](https://jjblek.github.io/pentago/)
+    
 - 📫 How to reach me: **jjblek@gmail.com**
 
 
