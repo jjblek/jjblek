@@ -6,9 +6,7 @@
 <h3>An aspiring software engineer and computer science graduate from <a align="left" href="https://www.sonoma.edu/" target="_blank">Sonoma State University</a>. I specialize in building sleek, high-performance web applications. Let's connect and build something together!</h3>
 
 - I’m currently looking for work!
-- Check out my **[Web Portfolio](https://justin-blechel-portfolio.vercel.app/)**, my project **<a href="https://dfa-flow.vercel.app/">DFA Flow</a>**, or my **<a href="https://www.youtube.com/watch?v=pVIfunDXPds&ab_channel=SSUComputerScienceDepartment">Capstone Video Presentation</a>**.
-
-  - Other projects: [NeonType](https://neon-type.netlify.app/), [Wordle Clone](https://jjblek.github.io/wordle-clone/), [Pentago](https://jjblek.github.io/pentago/)
+- Check out my **[web portfolio](https://justin-blechel-portfolio.vercel.app/)**, explore my projects—**[DFA Flow](https://dfa-flow.vercel.app/)** and **[NeonType](https://neon-type.netlify.app/)**—or watch my **<a href="https://www.youtube.com/watch?v=pVIfunDXPds&ab_channel=SSUComputerScienceDepartment">Capstone Video Presentation</a>**!
 
 ##
 
