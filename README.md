@@ -3,7 +3,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=jjblek&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jjblek" />
 <h1 align="center">Hi, I'm Justin 🏂</h1>
 
-<h3>An aspiring software engineer and computer science graduate from <a align="left" href="https://www.sonoma.edu/" target="_blank">Sonoma State University</a>. I specialize in building sleek, high-performance web applications. Let's connect and build something together!</h3>
+<h4>Software engineer and computer science graduate from <a align="left" href="https://www.sonoma.edu/" target="_blank">Sonoma State University</a>. I specialize in building sleek, high-performance web applications. Always eager to learn, collaborate, and create. Let’s connect and build something amazing!</h3>
 
 - I’m currently looking for work!
 - Check out my **[web portfolio](https://justin-blechel-portfolio.vercel.app/)**, explore my projects—**[DFA Flow](https://dfa-flow.vercel.app/)** and **[NeonType](https://neon-type.netlify.app/)**—or watch my **<a href="https://www.youtube.com/watch?v=pVIfunDXPds&ab_channel=SSUComputerScienceDepartment">Capstone Video Presentation</a>**!
