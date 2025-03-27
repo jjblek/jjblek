@@ -17,9 +17,8 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/jjblek)
 
 ##
-
+<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjblek&show_icons=true&locale=en&layout=compact&langs_count=8&theme=github_dark_dimmed" alt="jjblek" /></p>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jjblek&show_icons=true&locale=en&layout=compact&langs_count=8&theme=github_dark_dimmed" alt="jjblek" /></p>
 
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/cpp/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
