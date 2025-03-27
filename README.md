@@ -3,7 +3,7 @@
 
 <a href="https://www.sonoma.edu/" target="blank"><img align="center" src="https://www.sonoma.edu/sites/www/files/ssu_full_logo_centered-wht.svg" alt="ssu" height="80" width="200" /></a></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jjblek&label=Profile%20views&color=0e75b6&style=flat" alt="jjblek" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jjblek&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jjblek" /> </p>
 
 - I’m currently looking for work!
 - Check out my project **<a href="https://dfa-flow.vercel.app/">DFA Flow</a>** and my **<a href="https://www.youtube.com/watch?v=pVIfunDXPds&ab_channel=SSUComputerScienceDepartment">Capstone Video Presentation</a>**
@@ -15,8 +15,11 @@
 <h3 align="left">Connect with me:</h3>
 
 [![Email Me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justinblechel@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/blechelj)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/jjblek)
+
+<p align="left">
+  <a href="https://linkedin.com/in/blechelj" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+   <a href="https://www.leetcode.com/jjblek" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="linkedin"></a>
+</p>
 
 ##
 
