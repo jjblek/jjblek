@@ -1,7 +1,7 @@
-<a align="left" href="https://www.sonoma.edu/" target="blank"><img align="left" src="https://whatibeproject.com/wp-content/uploads/2013/06/client-sonoma.png" alt="ssu" height="70" /></a>
+<a align="left" href="https://www.sonoma.edu/" target="blank"><img align="left" src="https://whatibeproject.com/wp-content/uploads/2013/06/client-sonoma.png" alt="ssu" height="64" /></a>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=jjblek&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jjblek" />
-<h1 align="center">Hi, I'm Justin 👋</h1>
+<h1 align="center">Hi, I'm Justin 🏂</h1>
 
 <h3 align="left">An aspiring software engineer and computer science graduate from Sonoma State University. I specialize in building sleek, high-performance web applications. Let's connect and create something amazing!</h3>
 
