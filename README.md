@@ -5,20 +5,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjblek&label=Profile%20views&color=0e75b6&style=flat" alt="jjblek" /> </p>
 
-- 🔭 I’m currently looking for work!
-- 👨‍💻 Check out my project **<a href="https://dfa-flow.vercel.app/">DFA Flow</a>** and my **<a href="https://www.youtube.com/watch?v=pVIfunDXPds&ab_channel=SSUComputerScienceDepartment">Capstone Video Presentation</a>**
+- I’m currently looking for work!
+- Check out my project **<a href="https://dfa-flow.vercel.app/">DFA Flow</a>** and my **<a href="https://www.youtube.com/watch?v=pVIfunDXPds&ab_channel=SSUComputerScienceDepartment">Capstone Video Presentation</a>**
 
   - Other projects: [NeonType](https://neon-type.netlify.app/), [Wordle Clone](https://jjblek.github.io/wordle-clone/), [Pentago](https://jjblek.github.io/pentago/)
-    
-- 📫 How to reach me: **justinblechel@gmail.com**
 
 ##
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/blechelj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jjblek" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jjblek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jjblek" height="30" width="40" /></a>
-</p>
+
+[![Email Me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justinblechel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/blechelj)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/jjblek)
 
 ##
 
