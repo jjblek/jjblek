@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Justin</h1>
-<h3 align="center">A computer science graduate from
+<a align="left" href="https://www.sonoma.edu/" target="blank"><img align="left" src="https://whatibeproject.com/wp-content/uploads/2013/06/client-sonoma.png" alt="ssu" height="70" /></a>
 
-<a href="https://www.sonoma.edu/" target="blank"><img align="center" src="https://www.sonoma.edu/sites/www/files/ssu_full_logo_centered-wht.svg" alt="ssu" height="80" width="200" /></a></h3>
+<img align="right" src="https://komarev.com/ghpvc/?username=jjblek&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jjblek" />
+<h1 align="center">Hi, I'm Justin 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jjblek&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jjblek" /> </p>
+<h3 align="left">An aspiring software engineer and computer science graduate from Sonoma State University. I specialize in building sleek, high-performance web applications. Let's connect and create something amazing!</h3>
+
+
+
+
 
 - I’m currently looking for work!
 - Check out my project **<a href="https://dfa-flow.vercel.app/">DFA Flow</a>** and my **<a href="https://www.youtube.com/watch?v=pVIfunDXPds&ab_channel=SSUComputerScienceDepartment">Capstone Video Presentation</a>**
