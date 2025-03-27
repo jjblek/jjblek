@@ -17,8 +17,8 @@
 [![Email Me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justinblechel@gmail.com)
 
 <p align="left">
-  <a href="https://linkedin.com/in/blechelj" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
-   <a href="https://www.leetcode.com/jjblek" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="linkedin"></a>
+<a href="https://linkedin.com/in/blechelj" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+<a href="https://www.leetcode.com/jjblek" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="linkedin"></a>
 </p>
 
 ##
